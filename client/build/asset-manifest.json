@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cb4771b.css",
+    "main.js": "/static/js/main.d368a3d0.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/vivek.PNG": "/static/media/vivek.6619a64cb2070bd7f933.PNG",
+    "static/media/VivekSharmaResume.pdf": "/static/media/VivekSharmaResume.e1d8604251b6a9f7c8b1.pdf",
+    "index.html": "/index.html",
+    "main.6cb4771b.css.map": "/static/css/main.6cb4771b.css.map",
+    "main.d368a3d0.js.map": "/static/js/main.d368a3d0.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb4771b.css",
+    "static/js/main.d368a3d0.js"
+  ]
+}
