@@ -1,0 +1,51 @@
+.workExp {
+    margin: 50px 0;
+    margin-left: 120px;
+    background-color: #1387812a;
+    padding: 100px 0;
+}
+
+.workExp hr {
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+
+.workExp h2 {
+    font-weight: bold;
+    color: #1e1e2c !important;
+}
+
+.workExp .vertical-timeline-element-title {
+    color: #138781 !important;
+}
+
+.workExp .vertical-timeline-element-subtitle {
+    color: #1e1e2c78 !important;
+}
+
+/* DARK MODE  */
+#dark .workExp h2 {
+    color: #138781 !important;
+}
+
+#dark .vertical-timeline-element-date {
+    color: white !important;
+}
+
+/* ===================  */
+@media(max-width:600px) {
+    .workExp {
+        margin: 0;
+        padding: 0;
+        margin-top: 50px;
+    }
+
+    .workExp h2 {
+        padding-top: 30px;
+    }
+
+    .workExp hr {
+        width: 280px;
+    }
+}
